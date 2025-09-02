@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-purple-900;
+}
+select option {
+  @apply p-3;
+}
